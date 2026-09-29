@@ -1,0 +1,4 @@
+Runtime error
+Index -1 is out of bounds
+ZeroDivision error: 'num' cannot be divided by 0
+Program run successfully
